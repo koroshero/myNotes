@@ -1,0 +1,6 @@
+title: "Abdulrahman's Notes"
+description: "سفر تعلمي في السيبر، اللينكس، والشبكات."
+author: "Abdulrahman A. Alzahrani"
+theme: jekyll-theme-cayman
+markdown: kramdown
+permalink: /:title
